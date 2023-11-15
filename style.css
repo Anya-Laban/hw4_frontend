@@ -1,0 +1,19 @@
+.green{
+   background-color: rgb(107, 143, 107);
+   color: white;
+}
+
+.yellow{
+   background-color: rgb(238, 231, 137);
+   color: black;
+}
+#imageContainer{
+   max-width: 700px;
+   overflow: hidden;
+}
+#imageContainer img{
+   width: 100%;
+}
+.increase{
+   transform: scale(1.5);
+}
